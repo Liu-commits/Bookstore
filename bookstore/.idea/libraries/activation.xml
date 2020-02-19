@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://D:/tomcat7/lib/activation.jar!/" />
+      <root url="jar://D:/tomcat7/lib/annotations-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/c3p0-0.9.2-pre1.jar!/" />
+      <root url="jar://D:/tomcat7/lib/c3p0-oracle-thin-extras-0.9.2-pre1.jar!/" />
+      <root url="jar://D:/tomcat7/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/tomcat7/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/tomcat7/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/tomcat7/lib/catalina.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-io-1.4.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/tomcat7/lib/ecj-4.4.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/el-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://D:/tomcat7/lib/itcast-tools-1.4.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/jasper-el.jar!/" />
+      <root url="jar://D:/tomcat7/lib/jasper.jar!/" />
+      <root url="jar://D:/tomcat7/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://D:/tomcat7/lib/jsp-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/jstl.jar!/" />
+      <root url="jar://D:/tomcat7/lib/mail.jar!/" />
+      <root url="jar://D:/tomcat7/lib/mchange-commons-0.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://D:/tomcat7/lib/servlet-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/standard.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/tomcat7/lib/tomcat7-websocket.jar!/" />
+      <root url="jar://D:/tomcat7/lib/websocket-api.jar!/" />
+      <root url="jar://D:/tomcat7/lib/xom-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/tomcat7/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-io-1.4.jar!/" />
+      <root url="jar://D:/tomcat7/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/tomcat7/lib/itcast-tools-1.4.2.jar!/" />
+      <root url="jar://D:/tomcat7/lib/mail.jar!/" />
+      <root url="jar://D:/tomcat7/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+    </SOURCES>
+  </library>
+</component>
